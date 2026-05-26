@@ -46,7 +46,7 @@ I also enjoy playing the flute, so I don’t mind contributing to the “enterta
 ### PROJECT SUMMARY
 A quick overview of what I’ve been working on — click on each project for more details. Each README is carefully written for clarity.
 
-- **[Design & Advanced UVM Verification of Runtime-Configurable AXI-to-APB Bridge (Final Version)](https://github.com/nyundoan1/design-and-advanced-uvm-verification-of-runtime-configurable-axi-to-apb-bridge-part2)** *(05/2026)*  
+- **[Design & Advanced UVM Verification of Runtime-Configurable AXI-to-APB Bridge (Final Version)](https://github.com/nyundoan1/design-and-advanced-uvm-verification-of-runtime-configurable-axi-to-apb-bridge-part2)** *(06/2026)*  
   RTL design and UVM-based verification of AXI-to-APB Bridge (final completed graduation thesis version)  
 
 - **[Design & Advanced UVM Verification of Runtime-Configurable AXI-to-APB Bridge (No Coverage)](https://github.com/nyundoan1/design-and-advanced-uvm-verification-of-runtime-configurable-axi-to-apb-bridge-part1)** *(05/2026)*  
