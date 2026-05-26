@@ -50,7 +50,7 @@ A quick overview of what I’ve been working on — click on each project for mo
   RTL design and UVM-based verification of AXI-to-APB Bridge (final completed graduation thesis version)  
 
 - **[Design & Advanced UVM Verification of Runtime-Configurable AXI-to-APB Bridge (No Coverage)](https://github.com/nyundoan1/design-and-advanced-uvm-verification-of-runtime-configurable-axi-to-apb-bridge-part1)** *(05/2026)*  
-  RTL design and UVM-based verification of AXI-to-APB Bridge (focused on testcase execution, protocol checking, and regression validation)  
+  RTL design and UVM-based verification of AXI-to-APB Bridge (focused on testcase execution and regression validation)  
 
 - **[Verify an UART IP using UVM](https://github.com/nyundoan1/UART-IP-verification-by-using-UVM)** *(04/2026)*  
   Verified UART IP using UVM with AHB interface, configurable TX/RX, FIFO, interrupt, and oversampling modes
