@@ -46,6 +46,11 @@ I also enjoy playing the flute, so I don’t mind contributing to the “enterta
 ### PROJECT SUMMARY
 A quick overview of what I’ve been working on — click on each project for more details. Each README is carefully written for clarity.
 
+- **[Design & Advanced UVM Verification of Runtime-Configurable AXI-to-APB Bridge (Final Version)](https://github.com/nyundoan1/design-and-advanced-uvm-verification-of-runtime-configurable-axi-to-apb-bridge-part2)** *(05/2026)*  
+  RTL design and UVM-based verification of AXI-to-APB Bridge (final completed graduation thesis version)  
+
+- **[Design & Advanced UVM Verification of Runtime-Configurable AXI-to-APB Bridge (No Coverage)](https://github.com/nyundoan1/design-and-advanced-uvm-verification-of-runtime-configurable-axi-to-apb-bridge-part1)** *(05/2026)*  
+  RTL design and UVM-based verification of AXI-to-APB Bridge (focused on testcase execution, protocol checking, and regression validation)  
 
 - **[Verify an UART IP using UVM](https://github.com/nyundoan1/UART-IP-verification-by-using-UVM)** *(04/2026)*  
   Verified UART IP using UVM with AHB interface, configurable TX/RX, FIFO, interrupt, and oversampling modes
@@ -57,16 +62,16 @@ A quick overview of what I’ve been working on — click on each project for mo
   SystemVerilog testbench for APB-based timer verification (RTL encrypted) 
 
 - **[Design & verify 64-bit Timer IP (via APB)](https://github.com/nyundoan1/Design-and-Verify-64-bit-Timer-IP-via-APB-protocol)** *(12/2025)*  
- RTL Design and verification a 64-bit timer via APB protocol with Register  
+  RTL design and verification of a 64-bit timer via APB protocol with Register  
 
 - **[Verify a Parallel to serial](https://github.com/nyundoan1/parallel-to-serial-verification)** *(11/2025)*  
-  Read specification, building the verify plan and then write testbench base on the vplan (RTL encrypted) 
+  Read specification, building the verify plan and then write testbench based on the VPlan (RTL encrypted) 
 
 - **[Design & verify an UART Protocol](https://github.com/nyundoan1/simple-uart-rtl-and-testbench)** *(03/2024)*  
- RTL design of UART protocol and simple testbench to simulation  
+  RTL design of UART protocol and simple testbench for simulation  
 
 - **[Design & verify a Simple Traffic Light Controller](https://github.com/nyundoan1/traffic-light-controller-rtl-and-simulation)** *(12/2023)*  
-  FSM-based RTL design with two-direction control and simple testbench to simulation   
+  FSM-based RTL design with two-direction control and simple testbench for simulation
 
 ### FOR RECRUITERS
 
